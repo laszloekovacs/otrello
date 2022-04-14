@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  margin: 5px;
+}
+
+body {
+  background-image: url(../assets/pexels-cátia-matos-1072179.jpg);
+}
+
+.Block {
+  background-color: antiquewhite;
+  padding: 2px;
+
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+
+input {
+  outline-color: orangered;
+}
+
+details {
+  cursor: pointer;
+  background-color: antiquewhite;
+}
